@@ -1,0 +1,21 @@
+/*
+    JaCaMo Application File Template
+    --------------------------------
+
+    This file defines the initial state of the MAS (initial agents, environment, organisation, ....)
+
+    (see jacamo/doc/jcm.html for more information about what can be defined in this file)
+
+    JaCaMo 1.2
+*/
+
+mas main {
+
+    agent enchente: enchente.asl
+
+//    FUTUROS AGENTES A SEREM IMPLEMENTADOS
+
+//    agent deslizamento: deslizamento.asl
+//    agent incendio: cortina.asl
+//    agent defesa_civil: defesa_civil.asl
+}
